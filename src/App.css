@@ -52,17 +52,25 @@
 }
 
 .success {
-  background-color: #5cb85c;
+  background-color: #478d47;
 }
 
 .danger {
-  background-color: #d9534f;
+  
+  background-color: #e93e38;
 }
 
 .info {
-  background-color: #5bc0de;
+  background-color: #5ac5e6;
 }
 
 .warning {
   background-color: #f0ad4e;
+}
+
+select option {
+  margin: 40px;
+  background: rgba(0, 0, 0, 0.3);
+  color: rgb(9, 68, 78);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
 }
